@@ -1,0 +1,13 @@
+# Ignore nothing except...
+/.DS_Store
+/.metadata
+/.recommenders
+/RemoteSystemsTempFiles
+/Servers
+/apache-tomcat-8.5.15
+/apache-tomcat-8.5.15.zip
+/tools
+/tools/.classpath
+/tools/.project
+/tools/.settings
+/tools/target
